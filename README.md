@@ -1,6 +1,8 @@
 # planning-apps
 Resource scheduler apps benchmark
 
+![alt text](https://www.getharvest.com/assets/forecast/forecast-intro@2x-971dafc5dbf3cd574a8765fbcbdb3f4a5d66bc3d1c98861d7371a26dbeea94f2.png "Harvest forecast")
+
 ## Harvest Forecast
 https://www.getharvest.com/forecast
 
